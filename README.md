@@ -1,0 +1,2 @@
+# video-card-pricing-automation
+This automation scrapes video card prices from Amazon.com and returns a CSV filled with pricing and description of products that meet the hard coded model numbers.  This is an older representation of my automation skills but still shows the basics of capabilities in the field.  If I were to rework this it would involve multiple files with imported functions and type interfaces.
